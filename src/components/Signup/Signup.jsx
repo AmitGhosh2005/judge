@@ -5,7 +5,7 @@ import RegisterTeacher from "./RegisterTeacher";
 import LoginStudent from "./LoginStudent";
 import LoginParent from "./LoginParent";
 import LoginTeacher from "./LoginTeacher";
-import "./SignUp.css";
+import "./Signup.css";
 import AdminRegister from "./AdminRegister";
 import AdminLogin from "./AdminLogin";
 
