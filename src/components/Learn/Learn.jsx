@@ -1,5 +1,5 @@
 import React from 'react'
-import './learn.css'
+import './Learn.css'
 import Pdfsummerizer from '../PdfSummerizer/Pdfsummerizer'
 import achievement from '../../assets/achievement.svg'
 import trophy from '../../assets/trophy.svg'
