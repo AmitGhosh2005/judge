@@ -9,7 +9,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from "recharts";
-import "./BarChart.css";
+import "./Barchart.css";
 
 function Barchart() {
 
